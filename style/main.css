@@ -43,7 +43,7 @@ body {
     max-width: 1000px;
 }
 
-.box_right {
+.box_center_right {
     display: flex;
     font-size: 25px;
     font-weight: 600;
@@ -52,7 +52,7 @@ body {
     max-width: 450px;
 }
 
-.box_r {
+.box_right {
     padding: 30px 40px;
     margin-left: 15px;
     background-color: #FC8F8F;
